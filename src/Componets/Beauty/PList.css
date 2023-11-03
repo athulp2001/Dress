@@ -1,0 +1,78 @@
+
+.imgProductDiv{
+
+
+}
+
+.imgProduct{
+    margin-top: 20px;
+    
+    width: 90%;
+    height: 280px;
+    object-fit: cover;
+    object-position: center;
+  
+   
+
+}
+.ratingP{
+   
+    margin-top: 10px;
+font-size: 10px;
+text-align: left;
+}
+.starSpan{
+  
+    background-color: red;
+}
+
+.discription{
+    text-align: left;
+    padding: auto;
+    margin-left: 6px;
+    width:95%;
+}
+
+.disPM{
+    font-size: 14px;
+}
+.RsH6{
+    font-size: 14px;
+    font-weight: bold;
+}
+.RsUnderline{
+    font-size: 12px;
+    margin-left: 5px;
+    text-decoration: line-through;
+}
+.offP{
+    font-size: 10px;
+    color: rgb(238, 102, 102);
+    margin-left: 5px; 
+}
+
+.imgProductDiv:hover{
+    box-shadow: inset 1px 1px 7px 2px #b0aeae;
+    
+}
+
+.BtnWishlist{
+height:40px;
+width: 150px;
+margin-top: 10px;
+margin-left:30px ;
+border: solid;
+border-width: 2px;
+}
+
+.sizePWish{
+    
+}
+.redDiv{
+    text-align: left;
+    padding: auto;
+    margin-left: 5px;
+    
+    width: 96%;
+
+}

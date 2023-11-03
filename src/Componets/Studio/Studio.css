@@ -1,0 +1,147 @@
+.MainColor{
+    background-color: rgb(228, 171, 181);
+}
+
+
+.MainDiv{
+
+    width: 410px;
+    height: 503px;
+    background-color: rgb(243, 240, 240);
+    margin: auto;
+  
+    
+   
+    
+}
+.head1{
+    width: 410px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+    display: flex;
+    background-color: white;
+    justify-content: space-between;
+    border-bottom:solid ;
+    border-color: rgb(246, 237, 237);
+    
+   
+     
+}
+.head2nd{
+   
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+.headH6{
+    font-size: 23px;
+    margin-left: -130px;
+    margin-top: 3px;
+    
+}
+
+.HeadPP{
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 13px;
+    
+}
+
+.SecondDiv2{
+  margin-left: 10px;
+    height: 447px;
+    overflow-x: auto;
+    background-color: rgb(243, 240, 240);
+   
+}
+.SecondDiv2::-webkit-scrollbar{
+    height: 0;
+}
+
+
+.imgSale{
+    width: 100px;
+    object-fit: cover;
+    object-position: center;
+    height:120px;
+}
+.saleDIv::-webkit-scrollbar{
+    width: 0;
+    
+}
+
+
+.saleDIv{
+    display: flex;
+    width:382px; 
+    height:140px;
+    overflow-y: auto;
+}
+
+.ImgUpTo::-webkit-scrollbar{
+    height: 0;
+}
+
+/* -----------------------STUDIO Pageeeee------------------------ */
+
+.followImgShopAll{
+    margin: 2px;
+width: 70px;
+height: 90px;
+object-fit: cover;
+object-position: center;
+}
+.Pdiv{
+   
+   padding-left: 10px;
+    text-align: left;
+    width: 150px;
+    
+}
+
+.HeadNameP{
+    margin-top: 10px;
+font-size: 12px;
+}
+.HeadSpanP{
+    margin-left: 10px;
+font-weight: normal;
+text-decoration: line-through;
+
+}
+
+.HeadRSP{
+    margin-top: -12px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.HeadOffP{
+    margin-top: -12px;
+    font-size: 14px;
+    color: rgb(253, 52, 52);
+}
+
+.ShopAllmainDiv{
+    border: solid;
+    border-width: 1px;
+    margin-left: 5px;
+    border-color: gray;
+}
+
+.followComentSpan{
+    font-size: 12px;
+    font-weight: normal; margin-right: 10px;
+    color: rgb(108, 107, 107);
+}
+
+.hashTagH6{
+    font-size: 14px;
+}
+
+.seeMoreSpan{
+    font-size: 13px;
+    color: gray;
+}

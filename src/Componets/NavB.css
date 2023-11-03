@@ -1,0 +1,178 @@
+.navBorder{
+    border-bottom:solid ;
+    border-color: rgb(234, 226, 226,0.9);
+    position: fixed;
+    background-color: white;
+    z-index: 1000;
+}
+.imglogo{
+    width: 100px;
+    height: 60px;
+    object-fit: cover;
+}
+.sreach{
+   width: 300px;
+   height: 36px;
+   margin-top: 15px;
+   border-radius:0px;
+   align-items: center;
+   margin-left: 130px;
+   
+}
+.poLoBg{
+  padding-top: 8px;
+}
+
+.poLoBg{
+  margin-top: 11px;
+    display: flex;
+    width: 160px;
+    justify-content: space-between;
+}
+.Men{
+  text-decoration: none;
+  margin-left: 1%;
+ 
+    font-weight: bold;
+    font-size: 14px;
+    border: solid;
+    border-color:white ;
+    padding-bottom: 20px;
+    border-left: none;
+    border-right:none;
+    border-top:none ;
+    color: black;
+    border-width: 3px;
+}
+.Men:hover{
+    
+    border-top:none ;
+   border-color: rgb(254, 5, 5);
+}
+
+.Women{
+  text-decoration: none;
+  margin-left: 15px;
+    
+      font-weight: bold;
+      font-size: 14px;
+      border: solid;
+      border-color:white ;
+      padding-bottom: 20px;
+      border-left: none;
+      border-right:none;
+      border-top:none ;
+      color: black;
+      border-width: 3px;
+  }
+  .Women:hover{
+      
+      border-top:none ;
+     border-color:rgb(255, 11, 93);
+  }
+  .Kids{
+    text-decoration: none;
+   margin-left: 15px;
+    padding-top: 20px;
+      font-weight: bold;
+      font-size: 14px;
+      border: solid;
+      border-color:white ;
+      padding-bottom: 20px;
+      border-left: none;
+      border-right:none;
+      border-top:none ;
+      color: black;
+      border-width: 3px;
+  }
+  .Kids:hover{
+      
+      border-top:none ;
+     border-color: rgb(211, 139, 5);
+  }
+  .Home{
+    text-decoration: none;
+    margin-left: 15px;
+    padding-top: 20px;
+      font-weight: bold;
+      font-size: 14px;
+      border: solid;
+      border-color:white ;
+      padding-bottom: 20px;
+      border-left: none;
+      border-right:none;
+      border-top:none ;
+      color: black;
+      border-width: 3px;
+  }
+  .Home:hover{
+      
+      border-top:none ;
+     border-color:rgb(99, 159, 3);
+  }
+  .Beauty{
+    text-decoration: none;
+    margin-left: 15px;
+    padding-top: 20px;
+      font-weight: bold;
+      font-size: 14px;
+      border: solid;
+      border-color:white ;
+      padding-bottom: 20px;
+      border-left: none;
+      border-right:none;
+      border-top:none ;
+      color: black;
+      border-width: 3px;
+  }
+  .Beauty:hover{
+      
+      border-top:none ;
+     border-color: rgb(0, 179, 255);
+  }
+  .Studio{
+    text-decoration: none;
+    margin-left: 15px;
+
+      font-weight: bold;
+      font-size: 14px;
+      border: solid;
+      border-color:white ;
+      padding-bottom: 20px;
+      border-left: none;
+      border-right:none;
+      border-top:none ;
+      color: black;
+      border-width: 3px;
+  }
+  .Studio:hover{
+      
+      border-top:none ;
+     border-color: rgb(255, 5, 5);
+  }
+
+ 
+
+/* --------------dropDOwn----------------- */
+.dropdown {
+  position: relative;
+  
+  
+}
+
+
+
+.Men1{
+margin-top: 18px;
+}
+
+.Women1{
+  margin-top: 18px;
+
+  }
+
+.studio1{
+  margin-top: 18px;
+
+}
+

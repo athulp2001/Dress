@@ -1,0 +1,48 @@
+.MainListDiv{
+    padding: auto;
+    text-align: left;
+    justify-content: space-between;
+    position: fixed;
+    margin: auto;
+    
+    width: 80%;
+    overflow-y: auto;
+    display: none;
+   z-index: 2000;
+   
+    display: block;
+ padding-right: 15px;
+ padding-top: 25px;
+    padding-left: 3px;
+   
+   
+    
+}
+
+.MainListDiv::-webkit-scrollbar{
+ 
+}
+
+
+
+.itemHeading{
+margin-bottom: 20px;
+
+
+}
+.itemP{
+    font-size: 13px;
+    margin-top: -10px;
+    
+}
+.itemP:hover{
+font-weight: bold;
+}
+.DivEven{
+    padding:20px;
+background-color: rgb(245, 245, 245);
+}
+.DivOdd{
+    padding:20px; 
+    background-color: rgb(237, 235, 235);
+}
